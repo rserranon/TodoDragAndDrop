@@ -12,7 +12,6 @@ export class TareaComponent implements OnInit {
     'Buy clothes',
     'Walk the dog',
     'Clean dishes',
-    'Prepare food',
     'Pay bills',
     'Pay rent',
     'Sleep',
