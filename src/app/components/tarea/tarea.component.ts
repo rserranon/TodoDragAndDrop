@@ -9,6 +9,7 @@ import { Component, OnInit } from '@angular/core';
 export class TareaComponent implements OnInit {
   todo: string [] = [
     'Make bed',
+    'Buy clothes',
     'Walk the dog',
     'Clean dishes',
     'Prepare food',
